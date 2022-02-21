@@ -22,10 +22,13 @@ _TBD_
 
 ### Quickly changing content
 #### **`cmd + /` + "select all...**
-- easy, built-in, but limited in precision and control
+- easy, built-in, fastest, but limited in precision and control
+- <img width="386" alt="Screen Shot 2022-02-21 at 2 00 26 PM" src="https://user-images.githubusercontent.com/73957727/155019331-1458445c-3c25-4f44-86ce-68e88112715d.png">
 
 #### **"Selection colors/styles" in Design Panel**
-- easy, built-in, visual
+- easy, built-in, visual, point and click
+- <img width="252" alt="Screen Shot 2022-02-21 at 1 58 53 PM" src="https://user-images.githubusercontent.com/73957727/155019155-a7db58da-c772-48c0-96c3-814b624fcd0b.png">
+
 
 #### [**Get>>All**](https://www.figma.com/community/plugin/963807322482539548/Get%E2%80%BA%E2%80%BAall) and [**Similayer***](https://www.figma.com/community/plugin/735733267883397781/Similayer)
 - for selecting all layers that share a similar property
