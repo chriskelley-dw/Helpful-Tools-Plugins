@@ -1,5 +1,5 @@
 # Helpful-Tools-Plugins
-A repository of helpful design tools and plugins to be used alongside our main tools of Figma and Zeplin.
+A repository of helpful design tools and plugins I've found. Mostly focused on Figma, my primary design tool currently, but eventually hoping to be inclusive of Zeplin plugins, web apps, and more. Contributions welcome and encouraged.
 
 ## Tools
 _TBD_
